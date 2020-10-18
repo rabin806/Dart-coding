@@ -1,4 +1,4 @@
-//please help me use this code in substraction
+//can we change this code to do the marriage card calculatuon
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
