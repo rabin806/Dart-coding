@@ -1,4 +1,4 @@
-//can we change this code to do the marriage card calculatuon
+//can we change this code to do the chess game
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
